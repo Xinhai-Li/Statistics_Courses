@@ -4,12 +4,8 @@
 # lecture 1. Probability distribution
 #############################################################################################################################
 #' basic calculations and plotting probability distribution functions
-#' @description R codes for the statistics course about probability distribution
-#'  taken by each camera for one species.
+#' @description R codes for the statistics course about R and probability distribution
 #' @author Xinhai Li (Xinhai_li_edu@126.com)
-#' @return
-#' @examples
-#' @export
 #############################################################################################################################
 
 # Use R for basic calculation
